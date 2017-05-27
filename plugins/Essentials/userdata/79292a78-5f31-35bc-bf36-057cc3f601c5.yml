@@ -1,0 +1,31 @@
+lastAccountName: Throyer
+timestamps:
+  login: 1495805377513
+  lastteleport: 1495806863414
+  kits:
+    tools: 1494451900741
+  logout: 1495806866723
+ipAddress: 192.168.5.98
+lastlocation:
+  world: Principal
+  x: -357.30000001192093
+  y: 54.0
+  z: -67.21675896554932
+  yaw: 33.029102
+  pitch: 16.646957
+logoutlocation:
+  world: Principal
+  x: -368.5
+  y: 64.0
+  z: -247.5
+  yaw: -81.600266
+  pitch: 15.15002
+homes:
+  home:
+    world: Principal
+    x: -368.07751830950366
+    y: 64.0
+    z: -247.92875368864145
+    yaw: -88.500275
+    pitch: 19.350021
+afk: false

@@ -1,0 +1,230 @@
+[09:54:31] [Server thread/INFO]: Starting minecraft server version 1.11.2
+[09:54:31] [Server thread/INFO]: Loading properties
+[09:54:31] [Server thread/INFO]: Default game type: SURVIVAL
+[09:54:31] [Server thread/INFO]: Generating keypair
+[09:54:31] [Server thread/INFO]: Starting Minecraft server on *:25565
+[09:54:32] [Server thread/INFO]: Using epoll channel type
+[09:54:32] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-c19c293 (MC: 1.11.2) (Implementing API version 1.11.2-R0.1-SNAPSHOT)
+[09:54:32] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.3;7a097ca
+[09:54:32] [Server thread/INFO]: [Essentials] Loading Essentials v2.0.1-b370
+[09:54:32] [Server thread/INFO]: [Login] Loading Login v4.5
+[09:54:32] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5.0-SNAPSHOT-b722
+[09:54:32] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1.3-SNAPSHOT;c904242
+[09:54:32] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5.0-SNAPSHOT-b746
+[09:54:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[09:54:32] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[09:54:32] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[09:54:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[09:54:32] [Server thread/INFO]: Preparing level "Principal"
+[09:54:33] [Server thread/INFO]: Preparing start region for level 0 (Seed: 6343619639185979101)
+[09:54:34] [Server thread/INFO]: Preparing spawn area: 2%
+[09:54:35] [Server thread/INFO]: Preparing start region for level 1 (Seed: 8295096122846793440)
+[09:54:36] [Server thread/INFO]: Preparing start region for level 2 (Seed: 8295096122846793440)
+[09:54:36] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.3;7a097ca
+[09:54:36] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[09:54:36] [Server thread/WARN]: [WorldEdit] 
+**********************************************
+** This WorldEdit version does not fully support your version of Bukkit.
+**
+** When working with blocks or undoing, chests will be empty, signs
+** will be blank, and so on. There will be no support for entity
+** and biome-related functions.
+**
+** Please see http://wiki.sk89q.com/wiki/WorldEdit/Bukkit_adapters
+**********************************************
+
+[09:54:36] [Server thread/INFO]: [Essentials] Enabling Essentials v2.0.1-b370
+[09:54:36] [Server thread/INFO]: Using locale en_US
+[09:54:36] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
+[09:54:36] [Server thread/INFO]: [Essentials] Using legacy item data provider as spawn egg provider.
+[09:54:36] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
+[09:54:37] [Server thread/INFO]: Using locale en_US
+[09:54:37] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global PluginMetrics config.
+[09:54:37] [Server thread/INFO]: [Essentials] Using config file enhanced permissions.
+[09:54:37] [Server thread/INFO]: [Essentials] Permissions listed in as player-commands will be given to all users.
+[09:54:37] [Server thread/INFO]: [Login] Enabling Login v4.5
+[09:54:37] [Server thread/INFO]: [0;32;1m----------------------[m
+[09:54:37] [Server thread/INFO]: [0;32;1m----------------------[m
+[09:54:37] [Server thread/INFO]: [0;36;1mLogin System Pro activated![m
+[09:54:37] [Server thread/INFO]: [0;31;1mMade by MikiGamer![m
+[09:54:37] [Server thread/INFO]: [0;36;22mVersion: 4.0[m
+[09:54:37] [Server thread/INFO]: [0;32;1m----------------------[m
+[09:54:37] [Server thread/INFO]: [0;32;1m----------------------[m
+[09:54:37] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5.0-SNAPSHOT-b722
+[09:54:37] [Server thread/INFO]: [Multiverse-Core] 3 - World(s) loaded.
+[09:54:37] [Server thread/INFO]: [Multiverse-Core] Version 2.5.0-SNAPSHOT-b722 (API v20) Enabled - By Rigby, fernferret, lithium3141 and main--
+[09:54:37] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1.3-SNAPSHOT;c904242
+[09:54:37] [Server thread/INFO]: [WorldGuard] (Principal) TNT ignition is PERMITTED.
+[09:54:37] [Server thread/INFO]: [WorldGuard] (Principal) Lighters are PERMITTED.
+[09:54:37] [Server thread/INFO]: [WorldGuard] (Principal) Lava fire is blocked.
+[09:54:37] [Server thread/INFO]: [WorldGuard] (Principal) Fire spread is UNRESTRICTED.
+[09:54:37] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Principal'
+[09:54:37] [Server thread/INFO]: [WorldGuard] (Principal_nether) TNT ignition is PERMITTED.
+[09:54:37] [Server thread/INFO]: [WorldGuard] (Principal_nether) Lighters are PERMITTED.
+[09:54:37] [Server thread/INFO]: [WorldGuard] (Principal_nether) Lava fire is blocked.
+[09:54:37] [Server thread/INFO]: [WorldGuard] (Principal_nether) Fire spread is UNRESTRICTED.
+[09:54:37] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Principal_nether'
+[09:54:37] [Server thread/INFO]: [WorldGuard] (Principal_the_end) TNT ignition is PERMITTED.
+[09:54:37] [Server thread/INFO]: [WorldGuard] (Principal_the_end) Lighters are PERMITTED.
+[09:54:37] [Server thread/INFO]: [WorldGuard] (Principal_the_end) Lava fire is blocked.
+[09:54:37] [Server thread/INFO]: [WorldGuard] (Principal_the_end) Fire spread is UNRESTRICTED.
+[09:54:37] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Principal_the_end'
+[09:54:37] [Server thread/INFO]: [WorldGuard] Loading region data...
+[09:54:37] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.5.0-SNAPSHOT-b746
+[09:54:37] [Server thread/INFO]: [Multiverse-Portals] - Version 2.5.0-SNAPSHOT-b746 Enabled - By Rigby and fernferret
+[09:54:37] [Server thread/INFO]: [MVPLogging] 0 - Portals(s) loaded
+[09:54:37] [Server thread/INFO]: [Multiverse-Portals] Found WorldEdit. Using it for selections.
+[09:54:37] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[09:54:37] [Server thread/INFO]: Done (4,781s)! For help, type "help" or "?"
+[09:54:54] [Server thread/INFO]: Kirofe[/172.31.0.176:2250] logged in with entity id 215 at ([Principal]-357.5080236689155, 53.0, -63.35534951294909)
+[09:55:02] [Server thread/INFO]: Billy[/192.168.3.164:65138] logged in with entity id 242 at ([Principal]-318.3012965711532, 67.5, -76.51462921019298)
+[09:55:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5146ms behind, skipping 102 tick(s)
+[09:55:08] [Server thread/INFO]: Kirofe issued server command: /login 5905
+[09:55:21] [Server thread/INFO]: Billy issued server command: /login 53248657
+[09:55:30] [Server thread/INFO]: Billy issued server command: /login 5324
+[10:02:42] [Server thread/INFO]: Throyer[/192.168.5.98:63836] logged in with entity id 13908 at ([Principal]-366.7631601406504, 64.0, -254.47674547409576)
+[10:02:52] [Server thread/INFO]: Throyer issued server command: /login 3bb724acb
+[10:06:18] [Server thread/INFO]: Thelokys[/127.0.0.1:33602] logged in with entity id 21352 at ([Principal_nether]-17.781307901091576, 71.0, -356.19286775602)
+[10:06:24] [Server thread/INFO]: Thelokys issued server command: /login
+[10:09:21] [Server thread/INFO]: Throyer burned to death
+[10:10:05] [Server thread/INFO]: Billy issued server command: /tpa Throyer
+[10:10:09] [Server thread/INFO]: Throyer issued server command: /tpaccept
+[10:10:22] [Server thread/INFO]: Billy has just earned the achievement [DIAMONDS!]
+[10:10:22] [Server thread/INFO]: Throyer has just earned the achievement [Diamonds to you!]
+[10:10:29] [Server thread/INFO]: Billy issued server command: /back
+[10:11:43] [Server thread/INFO]: Thelokys was slain by Blaze
+[10:11:48] [Server thread/INFO]: Thelokys issued server command: /back
+[10:11:54] [Server thread/INFO]: Thelokys was slain by Blaze
+[10:11:56] [Server thread/INFO]: Thelokys issued server command: /back
+[10:11:59] [Server thread/INFO]: Thelokys was slain by Blaze
+[10:12:04] [Server thread/INFO]: Thelokys issued server command: /back
+[10:16:05] [Server thread/INFO]: C H A T U B A[/192.168.5.83:1909] logged in with entity id 39614 at ([Principal]-400.0174266478885, 83.0, -136.48516314614088)
+[10:16:26] [Server thread/INFO]: Throyer issued server command: /tp C H A T U B A
+[10:16:26] [Server thread/INFO]: §cThroyer §4was denied access to command.
+[10:16:35] [Server thread/INFO]: Throyer issued server command: /tpa C H A T U B A
+[10:16:52] [Server thread/INFO]: C H A T U B A issued server command: /tpdeny
+[10:19:21] [Server thread/INFO]: Throyer issued server command: /home
+[10:19:52] [Server thread/INFO]: Throyer issued server command: /tpa Thelokys
+[10:19:57] [Server thread/INFO]: Thelokys issued server command: /tpaccept
+[10:21:05] [Server thread/INFO]: Throyer issued server command: /home
+[10:23:42] [Server thread/INFO]: Throyer issued server command: /home
+[10:25:07] [Server thread/INFO]: Kirofe lost connection: Timed out
+[10:25:07] [Server thread/INFO]: Kirofe left the game
+[10:25:11] [Server thread/INFO]: Throyer issued server command: /home
+[10:28:21] [Server thread/INFO]: Throyer lost connection: Disconnected
+[10:28:21] [Server thread/INFO]: Throyer left the game
+[10:29:37] [Server thread/INFO]: Throyer[/192.168.5.98:63878] logged in with entity id 74594 at ([Principal]-401.03523308311827, 63.0, -252.34850430476942)
+[10:29:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10072ms behind, skipping 201 tick(s)
+[10:30:13] [Server thread/INFO]: Billy lost connection: Disconnected
+[10:30:13] [Server thread/INFO]: Billy left the game
+[10:30:31] [Server thread/INFO]: Billy[/192.168.3.164:49353] logged in with entity id 75873 at ([Principal]-328.30599116999656, 61.0, -76.76167937659204)
+[10:30:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10085ms behind, skipping 201 tick(s)
+[10:31:30] [Server thread/INFO]: C H A T U B A fell from a high place
+[10:31:37] [Server thread/INFO]: C H A T U B A issued server command: /back
+[10:33:05] [Server thread/INFO]: Throyer issued server command: /home
+[10:34:44] [Server thread/INFO]: Throyer issued server command: /spawn
+[10:44:05] [Server thread/INFO]: C H A T U B A has just earned the achievement [Getting Wood]
+[10:45:07] [Server thread/INFO]: Kirofe[/172.31.0.176:2724] logged in with entity id 110186 at ([Principal]-358.57910409572753, 53.5, -62.308499623098825)
+[10:45:45] [Server thread/INFO]: C H A T U B A has just earned the achievement [Benchmarking]
+[10:45:58] [Server thread/INFO]: Kirofe lost connection: Timed out
+[10:45:58] [Server thread/INFO]: Kirofe left the game
+[10:49:23] [Server thread/INFO]: C H A T U B A has just earned the achievement [Time to Mine!]
+[10:49:23] [Server thread/INFO]: C H A T U B A has just earned the achievement [Getting an Upgrade]
+[10:51:42] [Server thread/INFO]: Kirofe[/172.31.0.176:2793] logged in with entity id 119474 at ([Principal]-358.5718683196125, 53.5, -62.6185885375877)
+[10:53:02] [Server thread/INFO]: Throyer issued server command: /home
+[10:53:21] [Server thread/INFO]: Throyer issued server command: /tpa Kirofe
+[10:53:46] [Netty Epoll Server IO #0/INFO]: [[0;37;1mPrincipal[0;37;1m]<Throyer> assim /tpaccept[m
+[10:53:49] [Server thread/INFO]: Kirofe issued server command: /tpacecpt
+[10:53:55] [Server thread/INFO]: Throyer issued server command: /tpa Kirofe
+[10:53:57] [Server thread/INFO]: Throyer issued server command: /tpa Kirofe
+[10:53:58] [Server thread/INFO]: Throyer issued server command: /tpa Kirofe
+[10:54:00] [Server thread/INFO]: Throyer issued server command: /tpa Kirofe
+[10:54:01] [Server thread/INFO]: Throyer issued server command: /tpa Kirofe
+[10:54:02] [Server thread/INFO]: Throyer issued server command: /tpa Kirofe
+[10:54:07] [Server thread/INFO]: Kirofe issued server command: /tpaccept
+[10:54:23] [Server thread/INFO]: Throyer issued server command: /home
+[10:54:26] [Server thread/INFO]: Throyer lost connection: Disconnected
+[10:54:26] [Server thread/INFO]: Throyer left the game
+[11:02:54] [Server thread/INFO]: Billy issued server command: /tpa Thelokys
+[11:06:39] [Server thread/INFO]: C H A T U B A was blown up by Creeper
+[11:06:43] [Server thread/INFO]: C H A T U B A issued server command: /back
+[11:06:48] [Server thread/INFO]: C H A T U B A was blown up by Creeper
+[11:06:52] [Server thread/INFO]: C H A T U B A issued server command: /back
+[11:07:15] [Server thread/INFO]: Billy issued server command: /back
+[11:07:38] [Server thread/INFO]: Billy issued server command: /home
+[11:07:39] [Server thread/INFO]: C H A T U B A fell from a high place
+[11:07:44] [Server thread/INFO]: C H A T U B A issued server command: /back
+[11:08:23] [Server thread/INFO]: Kirofe issued server command: /home
+[11:08:40] [Server thread/INFO]: Kirofe issued server command: /home
+[11:09:05] [Server thread/INFO]: C H A T U B A was shot by Skeleton
+[11:09:08] [Server thread/INFO]: C H A T U B A issued server command: /back
+[11:09:40] [Server thread/INFO]: C H A T U B A was blown up by Creeper
+[11:09:40] [Server thread/INFO]: Billy was blown up by Creeper
+[11:09:46] [Server thread/INFO]: C H A T U B A issued server command: /back
+[11:09:50] [Server thread/INFO]: Billy issued server command: /back
+[11:10:14] [Server thread/INFO]: Billy was slain by Spider
+[11:10:18] [Server thread/INFO]: Billy issued server command: /back
+[11:11:43] [Server thread/INFO]: Billy was blown up by Creeper
+[11:11:50] [Server thread/INFO]: Billy issued server command: /back
+[11:17:31] [Server thread/INFO]: Thelokys issued server command: /world
+[11:17:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2109ms behind, skipping 42 tick(s)
+[11:22:59] [Server thread/INFO]: C H A T U B A fell from a high place
+[11:23:06] [Server thread/INFO]: C H A T U B A issued server command: /baclk
+[11:23:09] [Server thread/INFO]: C H A T U B A issued server command: /back
+[11:23:19] [Server thread/INFO]: C H A T U B A issued server command: /home
+[11:24:01] [Server thread/INFO]: Thelokys issued server command: /home
+[11:28:35] [Server thread/WARN]: C H A T U B A moved wrongly!
+[11:28:40] [Server thread/INFO]: Kirofe issued server command: /back
+[11:28:54] [Server thread/INFO]: Kirofe issued server command: /tpa billy
+[11:29:01] [Server thread/INFO]: Billy issued server command: /tpaccept
+[11:33:59] [Server thread/INFO]: Kirofe lost connection: Timed out
+[11:33:59] [Server thread/INFO]: Kirofe left the game
+[11:36:06] [Server thread/INFO]: C H A T U B A lost connection: Timed out
+[11:36:06] [Server thread/INFO]: C H A T U B A left the game
+[11:36:06] [Server thread/INFO]: Billy lost connection: Timed out
+[11:36:06] [Server thread/INFO]: Billy left the game
+[11:55:52] [Server thread/INFO]: Billy[/192.168.3.164:50884] logged in with entity id 235567 at ([Principal]-318.3000000119209, 67.5, -76.52219134422067)
+[12:23:57] [Server thread/INFO]: Thelokys issued server command: /home
+[12:30:39] [Server thread/INFO]: Thelokys lost connection: Disconnected
+[12:30:39] [Server thread/INFO]: Thelokys left the game
+[12:30:40] [Server thread/INFO]: Thelokys[/127.0.0.1:42428] logged in with entity id 284644 at ([Principal]-357.56143807317653, 74.0, -124.49683945728404)
+[12:37:44] [Server thread/INFO]: Thelokys issued server command: /hom
+[12:37:46] [Server thread/INFO]: Thelokys issued server command: /home
+[12:39:37] [Server thread/INFO]: Thelokys issued server command: /home
+[12:40:40] [Server thread/INFO]: Thelokys has just earned the achievement [Local Brewery]
+[13:41:59] [Server thread/INFO]: C H A T U B A[/192.168.5.83:14577] logged in with entity id 376383 at ([Principal]-321.93147011481636, 68.0, -75.14040348303645)
+[13:55:31] [Server thread/INFO]: C H A T U B A lost connection: Disconnected
+[13:55:31] [Server thread/INFO]: C H A T U B A left the game
+[13:57:23] [Server thread/INFO]: Billy lost connection: Timed out
+[13:57:23] [Server thread/INFO]: Billy left the game
+[13:59:05] [Server thread/INFO]: Billy[/192.168.3.164:51840] logged in with entity id 397432 at ([Principal]-318.9424530180722, 62.0, -74.99315185535929)
+[14:03:42] [Server thread/INFO]: Billy lost connection: Disconnected
+[14:03:42] [Server thread/INFO]: Billy left the game
+[14:09:00] [Server thread/INFO]: Thelokys issued server command: /home
+[14:10:32] [Server thread/INFO]: Saving...
+[14:10:32] [Server thread/INFO]: Saved the world
+[14:14:16] [Server thread/INFO]: Thelokys lost connection: Disconnected
+[14:14:16] [Server thread/INFO]: Thelokys left the game
+[14:25:43] [Server thread/INFO]: Saving...
+[14:25:43] [Server thread/INFO]: Saved the world
+[14:25:46] [Server thread/INFO]: Stopping the server
+[14:25:46] [Server thread/INFO]: Stopping server
+[14:25:46] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.5.0-SNAPSHOT-b746
+[14:25:46] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1.3-SNAPSHOT;c904242
+[14:25:46] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[14:25:46] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5.0-SNAPSHOT-b722
+[14:25:46] [Server thread/INFO]: [Login] Disabling Login v4.5
+[14:25:46] [Server thread/INFO]: [0;32;1m----------------------[m
+[14:25:46] [Server thread/INFO]: [0;32;1m----------------------[m
+[14:25:46] [Server thread/INFO]: [0;36;1mLogin System Pro disabled![m
+[14:25:46] [Server thread/INFO]: [0;31;1mMade by MikiGamer![m
+[14:25:46] [Server thread/INFO]: [0;36;22mVersion: 4.0[m
+[14:25:46] [Server thread/INFO]: [0;32;1m----------------------[m
+[14:25:46] [Server thread/INFO]: [0;32;1m----------------------[m
+[14:25:46] [Server thread/INFO]: [Essentials] Disabling Essentials v2.0.1-b370
+[14:25:46] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.3;7a097ca
+[14:25:46] [Server thread/INFO]: Saving players
+[14:25:46] [Server thread/INFO]: Saving worlds
+[14:25:46] [Server thread/INFO]: Saving chunks for level 'Principal'/Overworld
+[14:25:46] [Server thread/INFO]: Saving chunks for level 'Principal_nether'/Nether
+[14:25:46] [Server thread/INFO]: Saving chunks for level 'Principal_the_end'/The End

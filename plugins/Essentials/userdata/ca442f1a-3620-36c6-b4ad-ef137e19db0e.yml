@@ -1,0 +1,23 @@
+lastAccountName: Billy
+timestamps:
+  login: 1495817945296
+  lastteleport: 1495807910015
+  logout: 1495818222218
+  kits:
+    tools: 1495629240855
+ipAddress: 192.168.3.164
+lastlocation:
+  world: Principal
+  x: -318.5
+  y: 68.0
+  z: -75.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: Principal
+  x: -318.30000001192093
+  y: 67.5
+  z: -76.48662772393136
+  yaw: -89.46912
+  pitch: 9.538742
+afk: false

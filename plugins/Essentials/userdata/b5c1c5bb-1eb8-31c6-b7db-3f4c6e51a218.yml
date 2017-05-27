@@ -1,0 +1,21 @@
+lastAccountName: Kirofe
+timestamps:
+  login: 1495806702613
+  logout: 1495809239122
+  lastteleport: 1495808941968
+ipAddress: 172.31.0.176
+lastlocation:
+  world: Principal
+  x: -246.33655607279096
+  y: 64.0
+  z: -76.289776225568
+  yaw: -358.02786
+  pitch: 8.258381
+logoutlocation:
+  world: Principal
+  x: -358.4880589271404
+  y: 53.5
+  z: -62.30000001192093
+  yaw: 4.481097
+  pitch: 10.880556
+afk: false

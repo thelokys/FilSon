@@ -1,0 +1,23 @@
+lastAccountName: Thelokys
+timestamps:
+  login: 1495812640780
+  kits:
+    tools: 1495629228309
+  logout: 1495818856872
+  lastteleport: 1495818540365
+ipAddress: 127.0.0.1
+lastlocation:
+  world: Principal
+  x: -199.4409608704567
+  y: 10.0
+  z: -116.30000001192093
+  yaw: 95.51001
+  pitch: 20.116251
+logoutlocation:
+  world: Principal
+  x: -344.69999998807907
+  y: 55.5
+  z: -109.44018705246854
+  yaw: -268.2373
+  pitch: 12.617812
+afk: false
