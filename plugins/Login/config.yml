@@ -28,11 +28,11 @@ Accounts:
   Kirofe:
     T: 0
     Password: '5905'
-    IP: 172.31.0.176
+    IP: 192.168.10.150
   Billy:
     T: 0
     Password: '5324'
-    IP: 192.168.3.164
+    IP: 192.168.9.201
   thelokys:
     T: 3
   testinho:
