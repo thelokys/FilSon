@@ -2,7 +2,7 @@ Accounts:
   Throyer:
     T: 0
     Password: 3bb724acb
-    IP: 192.168.5.98
+    IP: localhost
     Pin: '1366'
   rinkashi:
     T: 0
