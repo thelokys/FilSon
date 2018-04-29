@@ -1,0 +1,21 @@
+lastAccountName: Junnin
+timestamps:
+  login: 1479251888651
+  logout: 1479252875830
+  lastteleport: 1479240639676
+ipAddress: 179.209.11.43
+logoutlocation:
+  world: Grande_vila
+  x: -145.81430119736328
+  y: 64.0
+  z: 295.4829514369699
+  yaw: 184.39578
+  pitch: 25.60913
+lastlocation:
+  world: Grande_vila
+  x: -243.1573756938451
+  y: 77.53584062504456
+  z: 334.35751583319944
+  yaw: 205.87573
+  pitch: 53.31714
+afk: false

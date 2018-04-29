@@ -266,9 +266,12 @@ skip-used-one-time-kits-from-kit-list: false
 # For more information, visit http://wiki.ess3.net/wiki/Kits
 kits:
   tools:
-    delay: 6000
+    delay: 10
     items:
-      - 260 1
+      - 272 1
+      - 273 1
+      - 274 1
+      - 275 1
   dtools:
     delay: 600
     items:
@@ -521,16 +524,16 @@ world-home-permissions: false
 # Create the 'home-rank' below, and give the matching permission: essentials.sethome.multiple.<home-rank>
 # For more information, visit http://wiki.ess3.net/wiki/Multihome
 sethome-multiple:
-  default: 3
+  default: 5
   vip: 5
-  staff: 10
+  staff: 5
 
 # In this example someone with 'essentials.sethome.multiple' and 'essentials.sethome.multiple.vip' will have 5 homes.
 # Remember, they MUST have both permission nodes in order to be able to set multiple homes.
 
 # Set the timeout, in seconds for players to accept a tpa before the request is cancelled.
 # Set to 0 for no timeout.
-tpa-accept-cancellation: 120
+tpa-accept-cancellation: 240
 
 ############################################################
 # +------------------------------------------------------+ #
@@ -614,7 +617,7 @@ chat:
   # Or you can give a group specific chat format, to give some extra variation.
   # For more information of chat formatting, check out the wiki: http://wiki.ess3.net/wiki/Chat_Formatting
 
-  format: '&4<{DISPLAYNAME}>&r {MESSAGE}'
+  format: '<{DISPLAYNAME}> {MESSAGE}'
   #format: '&7[{GROUP}]&r {DISPLAYNAME}&7:&r {MESSAGE}'
 
   group-formats:
@@ -800,7 +803,7 @@ newbies:
   # If so, use this format, replacing {DISPLAYNAME} with the player name.
   # If not, set to ''
   #announce-format: ''
-  announce-format: '&dBem vindo a essa desgraça, {DISPLAYNAME}&'
+  announce-format: '&dBem vindo {DISPLAYNAME}&d ao Server do Throyer!'
 
   # When we spawn for the first time, which spawnpoint do we use?
   # Set to "none" if you want to use the spawn point of the world.

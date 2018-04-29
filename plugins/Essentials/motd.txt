@@ -1,4 +1,4 @@
-&6E ae, {PLAYER}&6 &eJoga ae seu puto!
-&Use &c/help&6 Pra saber as merdas que vc pode digitar...
-&Use &c/list&6 pra ver os infelizes logados...
-&6Putos online:&c {ONLINE} &6- Horario no mundo:&c {WORLDTIME12}
+&6Bem vindo de volta, {PLAYER}&6!
+&6Digite &c/help&6 para ver a lista de comandos.
+&6Ou &c/list&6 para ver os jogadores online.
+&6Players online:&c {ONLINE} &6- Hora no servidor:&c {WORLDTIME12} 

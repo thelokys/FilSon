@@ -1,1 +1,133 @@
-portals: {}
+portals:
+  sas_principal:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Throyer
+    location: 271.0,85.0,221.0:275.0,89.0,221.0
+    world: SAS
+    destination: p:principal_sas
+  principal_sas:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Throyer
+    location: 386.0,64.0,327.0:386.0,68.0,331.0
+    world: Principal
+    destination: p:sas_principal
+  principal_castelo:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Throyer
+    location: 370.0,67.0,337.0:374.0,70.0,337.0
+    world: Principal
+    destination: p:castelo_principal
+  castelo_principal:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Throyer
+    location: -449.0,97.0,255.0:-445.0,101.0,255.0
+    world: Castelo
+    destination: p:principal_castelo
+  principal_gun:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Throyer
+    location: 397.0,64.0,346.0:401.0,68.0,346.0
+    world: Principal
+    destination: p:gun_principal
+  gun_principal:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Throyer
+    location: -174.0,64.0,268.0:-174.0,69.0,271.0
+    world: Grande_vila
+    destination: p:principal_gun
+  vila_principal:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Throyer
+    location: 442.0,64.0,174.0:446.0,64.0,178.0
+    world: Pequena_vila
+    destination: p:principal_vila
+  principal_vila:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Throyer
+    location: 380.0,67.0,307.0:380.0,71.0,311.0
+    world: Principal
+    destination: p:vila_principal
+  principal_mural:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Throyer
+    location: 375.0,64.0,350.0:379.0,67.0,350.0
+    world: Principal
+    destination: p:mural_principal
+  mural_principal:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Throyer
+    location: 9.0,69.0,-116.0:13.0,69.0,-112.0
+    world: Mural
+    destination: p:principal_mural
+  marccelo2:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Throyer
+    location: 428.0,70.0,81.0:429.0,70.0,82.0
+    world: Pequena_vila
+    destination: p:marccelo1
+  marccelo1:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Throyer
+    location: 425.0,63.0,146.0:426.0,63.0,147.0
+    world: Pequena_vila
+    destination: p:marccelo2

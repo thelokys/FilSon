@@ -1,31 +1,29 @@
 lastAccountName: Throyer
 timestamps:
-  login: 1524974032119
-  lastteleport: 1524974549573
-  kits:
-    tools: 1494451900741
-  logout: 1524974600689
+  login: 1525017857441
+  lastteleport: 1479239818670
+  logout: 1525020070811
 ipAddress: 127.0.0.1
 lastlocation:
-  world: Principal
-  x: -665.6280202522107
-  y: 85.91859463778457
-  z: -1473.13137725236
-  yaw: 337.94885
-  pitch: 16.500076
+  world: Grande_vila
+  x: -490.4600711033485
+  y: 65.1240265374822
+  z: 596.0961231691192
+  yaw: -359.71353
+  pitch: 24.000051
 logoutlocation:
   world: Principal
-  x: -286.50919495979895
-  y: 81.96753153206578
-  z: -382.13094545658646
-  yaw: -36.75036
-  pitch: 17.25011
+  x: 403.0499105965479
+  y: 64.0
+  z: 329.2236205352688
+  yaw: 41.54996
+  pitch: -14.1000395
 homes:
   home:
-    world: Principal
-    x: -368.07751830950366
+    world: Grande_vila
+    x: -160.5285546958862
     y: 64.0
-    z: -247.92875368864145
-    yaw: -88.500275
-    pitch: 19.350021
+    z: 329.2095045389132
+    yaw: 113.84933
+    pitch: 5.099543
 afk: false
