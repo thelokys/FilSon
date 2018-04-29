@@ -7,12 +7,12 @@ Servidor comunitario da galera.
 
 ## Ajuda:
 -  **como iniciar servidor**:
-> - - **Linux**:
+> - **Linux**:
 > Abra um terminal na pasta do servidor e digite:
 >    ```bash
 >        sudo ./craftbukkit.sh
 >    ```
-> - - **Windows**:
+> - **Windows**:
 > É só executar o arquivo `craftbukkit.bat`
 
 - **Como jogar**:
