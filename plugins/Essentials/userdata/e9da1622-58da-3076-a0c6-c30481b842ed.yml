@@ -1,19 +1,28 @@
 lastAccountName: rinkashi
 timestamps:
-  login: 1479265676488
-  logout: 1479266452820
-ipAddress: 200.158.179.166
+  login: 1494728935739
+  logout: 1494733183822
+  lastteleport: 1494732400320
+ipAddress: 201.13.202.144
+logoutlocation:
+  world: Principal
+  x: -393.3696590697754
+  y: 63.0
+  z: -254.99061995044912
+  yaw: 74.7522
+  pitch: -32.09997
 lastlocation:
   world: Principal
-  x: 380.5
-  y: 67.0
-  z: 309.5
-  yaw: 0.0
-  pitch: 0.0
-logoutlocation:
-  world: Pequena_vila
-  x: 419.62276046535635
-  y: 63.0
-  z: 148.64786879197385
-  yaw: 137.84993
-  pitch: 6.300008
+  x: -368.65386103076474
+  y: 64.0
+  z: -261.3985622184632
+  yaw: 99.39868
+  pitch: 15.245637
+homes:
+  home:
+    world: Principal
+    x: -404.2148217780963
+    y: 63.0
+    z: -252.71434251599084
+    yaw: 270.45483
+    pitch: 12.900018
