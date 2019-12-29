@@ -10,59 +10,24 @@
 # REMEMBER TO KEEP PERIODICAL BACKUPS.
 #
 regions:
-    spawn:
-        min: {x: 396.0, y: 60.0, z: 324.0}
-        max: {x: 406.0, y: 67.0, z: 334.0}
-        members: {}
-        flags: {greeting: §eBem vindo ao servidor do §5Throyer}
-        owners: {}
+    casa_throyer:
+        min: {x: -418.0, y: 39.0, z: -306.0}
+        max: {x: -324.0, y: 81.0, z: -199.0}
+        members:
+            unique-ids: [e9da1622-58da-3076-a0c6-c30481b842ed, 524d324f-7b31-3d88-be9a-a732ee889518]
+        flags:
+            deny-spawn: [CREEPER, ZOMBIE, SKELETON, ZOMBIE_VILLAGER, SPIDER, ENDERMAN,
+                WITCH]
+        owners:
+            unique-ids: [79292a78-5f31-35bc-bf36-057cc3f601c5]
         type: cuboid
         priority: 0
-    portal_vila_pequena:
-        min: {x: 378.0, y: 67.0, z: 306.0}
-        max: {x: 382.0, y: 67.0, z: 312.0}
+    casa_ze:
+        min: {x: -363.0, y: 64.0, z: -151.0}
+        max: {x: -325.0, y: 82.0, z: -109.0}
         members: {}
-        flags: {greeting: '§e portal para o mundo: §2vila'}
-        owners: {}
-        type: cuboid
-        priority: 0
-    portal_gun:
-        min: {x: 396.0, y: 63.0, z: 342.0}
-        max: {x: 403.0, y: 64.0, z: 348.0}
-        members: {}
-        flags: {greeting: '§ePortal para o mundo:§l §4G§f.§4U§f.§4N'}
-        owners: {}
-        type: cuboid
-        priority: 0
-    portal_castelo:
-        min: {x: 365.0, y: 63.0, z: 331.0}
-        max: {x: 380.0, y: 76.0, z: 341.0}
-        members: {}
-        flags: {greeting: '§ePortal para o mundo: §7§nCastelo'}
-        owners: {}
-        type: cuboid
-        priority: 0
-    portal_sas:
-        min: {x: 382.0, y: 62.0, z: 324.0}
-        max: {x: 390.0, y: 64.0, z: 335.0}
-        members: {}
-        flags: {greeting: '§ePortal para o mundo:§c§l Nostalgia'}
-        owners: {}
-        type: cuboid
-        priority: 0
-    main:
-        min: {x: 305.0, y: 31.0, z: 249.0}
-        max: {x: 460.0, y: 117.0, z: 395.0}
-        members: {}
-        flags: {pvp: deny, mob-spawning: deny}
-        owners: {}
-        type: cuboid
-        priority: 0
-    portal_mural:
-        min: {x: 374.0, y: 63.0, z: 348.0}
-        max: {x: 380.0, y: 64.0, z: 351.0}
-        members: {}
-        flags: {greeting: '§ePortal para o mundo:§f§l Mural'}
-        owners: {}
+        flags: {}
+        owners:
+            unique-ids: [90878745-a13a-3eec-b65b-dcf5e851446b]
         type: cuboid
         priority: 0

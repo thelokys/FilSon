@@ -1,0 +1,45 @@
+Accounts:
+  Throyer:
+    T: 0
+    Password: 3bb724acb
+    IP: localhost
+    Pin: '1366'
+  rinkashi:
+    T: 0
+    Password: '123456'
+    IP: 201-13-202-144.dial-up.telesp.net.br
+  faliceu:
+    T: 0
+    Password: '123'
+    IP: ssl.bandisoft.com
+  Leandro:
+    T: 0
+    Password: '84628462'
+    IP: 187-54-11-241.cscgo702.dsl.brasiltelecom.net.br
+  Thelokys:
+    T: 0
+    Password: thelokys
+    IP: localhost
+    Pin: thelokys
+  ZertGames:
+    T: 0
+    Password: '123'
+    IP: 192.168.2.221
+  Kirofe:
+    T: 0
+    Password: '5905'
+    IP: 192.168.10.150
+  Billy:
+    T: 0
+    Password: '5324'
+    IP: 192.168.9.201
+  thelokys:
+    T: 3
+  testinho:
+    T: 0
+    Password: chatuba
+    IP: 192.168.5.83
+  C H A T U B A:
+    T: 0
+    Password: chatuba
+    IP: 192.168.5.83

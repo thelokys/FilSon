@@ -1,0 +1,30 @@
+lastAccountName: Leandro
+timestamps:
+  login: 1494732275483
+  kits:
+    tools: 1494732010370
+  lastteleport: 1494732048670
+  logout: 1494733215126
+ipAddress: 187.54.11.241
+lastlocation:
+  world: Principal
+  x: -216.30000001192093
+  y: 73.41999998688698
+  z: -25.300000011920922
+  yaw: -134.6477
+  pitch: 40.13452
+homes:
+  home:
+    world: Principal
+    x: -396.30204583322933
+    y: 63.0
+    z: -257.10004251121495
+    yaw: 35.87115
+    pitch: 4.222065
+logoutlocation:
+  world: Principal
+  x: -411.0799323798998
+  y: 63.0
+  z: -123.69999998807907
+  yaw: -278.31372
+  pitch: 27.527222

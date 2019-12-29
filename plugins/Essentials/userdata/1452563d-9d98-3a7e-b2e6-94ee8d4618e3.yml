@@ -1,0 +1,20 @@
+lastAccountName: newbie
+timestamps:
+  login: 1494358472335
+  lastteleport: 1494358497574
+  logout: 1494358515219
+ipAddress: 127.0.0.1
+lastlocation:
+  world: Principal
+  x: -248.96282097836368
+  y: 65.0
+  z: -88.07692637830849
+  yaw: 145.9499
+  pitch: 5.8500004
+logoutlocation:
+  world: Principal
+  x: -367.0372608845589
+  y: 64.0
+  z: -247.22787325415504
+  yaw: -198.1516
+  pitch: 9.150011
