@@ -1,4 +1,6 @@
-.directory
-
-/logs/*
-/crash-reports/*
+server/logs
+server/Principal
+server/Principal_nether
+server/Principal_the_end
+server/server.properties
+server/usercache.json

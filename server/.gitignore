@@ -1,0 +1,4 @@
+!plugins/
+plugins/*
+!plugins/WorldGuard/
+!plugins/Multiverse-Core/
